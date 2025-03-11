@@ -1,8 +1,18 @@
 LSTM-Based Text Classification
 
 📌 Project Overview
+E-commerce (electronic commerce) refers to the buying and selling of goods and services over the internet. It has revolutionized the way businesses operate, allowing transactions to take place across borders with ease.
 
-This project develops a Long Short-Term Memory (LSTM) neural network model for text classification. The model categorizes text into four predefined categories: Electronics, Household, Books, and Clothing & Accessories. The goal is to achieve:
+📦 Role of Product Categorization in E-Commerce
+In an e-commerce platform, product categorization is a crucial task to enhance user experience, optimize search functionality, and improve recommendation systems. Manually categorizing thousands of products can be time-consuming and error-prone, which is why machine learning models like LSTMs (Long Short-Term Memory networks) are used to automate and improve classification accuracy.
+
+This project focuses on classifying e-commerce products into four main categories:
+✅ Electronics
+✅ Household
+✅ Books
+✅ Clothing & Accessories
+
+By leveraging Natural Language Processing (NLP) and LSTM models, the goal is to automate this classification process with high accuracy.
 
 ✅ Accuracy: > 85%
 ✅ F1 Score: > 0.7
@@ -74,6 +84,10 @@ Confusion Matrix: Visualizes misclassifications
 ✔ Reduce Learning Rate when validation loss plateaus
 ✔ Bidirectional LSTM for better context understanding
 
+Result for loss and accuracy:
+
+![alt text](image/epoch_accuracy.png)
+![alt text](image/epoch_loss.png)
 
 
 🚀 Future Improvements
