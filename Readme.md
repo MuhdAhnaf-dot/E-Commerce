@@ -7,7 +7,7 @@ This project develops a Long Short-Term Memory (LSTM) neural network model for t
 ✅ Accuracy: > 85%
 ✅ F1 Score: > 0.7
 
-
+![alt text](image/classification_reportF1.png)
 
 📂 Project Structure
 
