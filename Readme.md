@@ -87,6 +87,7 @@ Confusion Matrix: Visualizes misclassifications
 Result for loss and accuracy:
 
 ![alt text](image/epoch_accuracy.png)
+
 ![alt text](image/epoch_loss.png)
 
 
